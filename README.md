@@ -28,12 +28,12 @@
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%203.png"/>
 
-in case you hit one end of the map, the snake dies and the game is over;
+## in case you hit one end of the map, the snake dies and the game is over;
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/hit.png"/>
 
 in case you curl up to hit yourself, the snake dies and the game is over;
 
-capture the red blocks, be careful not to curl up and do not hit the ends of the map, you will realize that the more fulfilled the snake, the harder it will become.
+capture the gray blocks, be careful not to curl up and do not hit the ends of the map, you will realize that the more fulfilled the snake, the harder it will become.
 
 
