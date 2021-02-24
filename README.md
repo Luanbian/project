@@ -26,7 +26,7 @@ On the map will have some gray blocks, are the snake foods.
 
 as you capture the red blocks you will increase in size and leaving the snake cava ten more fulfilled;
 
-<img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%202.png"/>
+<img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%203.png"/>
 
 in case you hit one end of the map, the snake dies and the game is over;
 
