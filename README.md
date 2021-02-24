@@ -45,4 +45,6 @@
 
 ### capture the gray blocks, be careful not to curl up and do not hit the ends of the map, you will realize that the more fulfilled the snake, the harder it will become.
 
+## I hope you enjoy this game, bye
+
 
