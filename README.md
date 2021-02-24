@@ -32,7 +32,7 @@
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/hit.png"/>
 <br></br>
-in case you curl up and hit yourself, the snake dies and the game is over; ☠
+### in case you curl up and hit yourself, the snake dies and the game is over; ☠
 
 ### be careful not to curl up too much ‼
 
@@ -41,6 +41,6 @@ in case you curl up and hit yourself, the snake dies and the game is over; ☠
 
 </br>
 # Conclusion
-###capture the gray blocks, be careful not to curl up and do not hit the ends of the map, you will realize that the more fulfilled the snake, the harder it will become.
+### capture the gray blocks, be careful not to curl up and do not hit the ends of the map, you will realize that the more fulfilled the snake, the harder it will become.
 
 
