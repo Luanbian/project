@@ -32,8 +32,9 @@
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/hit.png"/>
 
-in case you curl up and hit yourself, the snake dies and the game is over;
-be careful not to curl up too much
+in case you curl up and hit yourself, the snake dies and the game is over; ☠
+
+### be careful not to curl up too much ‼
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%204.png"/>
 
