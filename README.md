@@ -31,7 +31,9 @@
 ## in case you hit one end of the map, the snake dies and the game is over;
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/hit.png"/>
+
 <br></br>
+
 ### in case you curl up and hit yourself, the snake dies and the game is over; ☠
 
 ### be careful not to curl up too much ‼
