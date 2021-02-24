@@ -1,8 +1,3 @@
-# project
-Final project for EDX, CS50
-It's the famous snake game using python
-
-How it works?
 
 Use the arrow keys to move the snake;
 
