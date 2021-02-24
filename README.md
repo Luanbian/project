@@ -14,6 +14,8 @@ Use the arrow keys to move the snake;
 
 
 On the map will have some gray blocks, are the snake foods.
+
+
 <img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%201.png"/>
 
 ## capture them to earn points.💥
