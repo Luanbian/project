@@ -1,7 +1,13 @@
+# Luanbian
+# snake game using python
+#### Video Demo: https://www.youtube.com/watch?v=wFj4HRGLNjg&t=4s
+#### Description:
 
 Use the arrow keys to move the snake;
 
-On the map will have some red blocks, are the snake foods, capture them to earn points;
+<img src="https://static.thenounproject.com/png/335640-200.png"/>
+
+On the map will have some gray blocks, are the snake foods, capture them to earn points.
 
 as you capture the red blocks you will increase in size and leaving the snake cava ten more fulfilled;
 
