@@ -14,6 +14,7 @@ Use the arrow keys to move the snake;
 
 
 On the map will have some gray blocks, are the snake foods.
+<img src="https://static.thenounproject.com/png/335640-200.png"/>
 
 ## capture them to earn points.💥
 
