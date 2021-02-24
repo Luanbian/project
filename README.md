@@ -3,7 +3,7 @@
 ### Video Demo: https://www.youtube.com/watch?v=wFj4HRGLNjg&t=4s
 ## Description:
 
-Use the arrow keys to move the snake;
+### Use the arrow keys to move the snake;
 
 <img src="https://static.thenounproject.com/png/335640-200.png"/>
 
@@ -15,7 +15,7 @@ Use the arrow keys to move the snake;
 
 </br>
 
-On the map will have some gray blocks, are the snake foods.
+### On the map will have some gray blocks, are the snake foods.
 
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%201.png"/>
@@ -24,7 +24,7 @@ On the map will have some gray blocks, are the snake foods.
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%202.png"/>
 
-as you capture the red blocks you will increase in size and leaving the snake cava ten more fulfilled;
+### as you capture the red blocks you will increase in size and leaving the snake cava ten more fulfilled;
 
 <img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%203.png"/>
 
