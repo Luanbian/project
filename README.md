@@ -1,7 +1,7 @@
 # Luanbian
 # snake game using python
-#### Video Demo: https://www.youtube.com/watch?v=wFj4HRGLNjg&t=4s
-#### Description:
+### Video Demo: https://www.youtube.com/watch?v=wFj4HRGLNjg&t=4s
+## Description:
 
 Use the arrow keys to move the snake;
 
@@ -11,7 +11,9 @@ Use the arrow keys to move the snake;
 * Keyboard arrow down for snake go down.
 * keyboard arrow to the right for the snake to go right.
 * keyboard arrow to the left for the snake to go left.
+<br>
 
+</br>
 
 On the map will have some gray blocks, are the snake foods.
 
