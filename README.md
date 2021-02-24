@@ -20,7 +20,7 @@ On the map will have some gray blocks, are the snake foods.
 
 ## capture them to earn points.💥
 
-<img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%201.png"/>
+<img src="https://github.com/Luanbian/project/blob/main/harvard/nivel%202.png"/>
 
 as you capture the red blocks you will increase in size and leaving the snake cava ten more fulfilled;
 
